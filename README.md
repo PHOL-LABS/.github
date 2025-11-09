@@ -1,7 +1,7 @@
 # PHOL-LABS Kft 🚀  
 **“The retrowave technology of the future.”**  
 Welcome to PHOL-LABS Kft — where we fuse cutting-edge embedded software with electronics, mechanics and CAD design. We are a distributed team specialising in innovation and retro-inspired tech, creating complete hardware-software systems from concept to production.  
-Visit us at: [https://phol-labs.com](https://phol-labs.com) :contentReference[oaicite:1]{index=1}
+Visit us at: [https://phol-labs.com](https://phol-labs.com)
 
 ---
 
@@ -11,7 +11,7 @@ At PHOL-LABS, we design, engineer and produce:
 - Software & tools: dashboards, Linux/RTOS, Web Serial APIs, custom tooling  
 - Retro and legacy device revivals: from classic computers/gaming to modern automotive clusters  
 
-From our base in Budapest we serve the EU and worldwide markets. :contentReference[oaicite:2]{index=2}
+From our base in Budapest we serve the EU and worldwide markets.
 
 ---
 
@@ -19,7 +19,7 @@ From our base in Budapest we serve the EU and worldwide markets. :contentReferen
 - Deliver high-quality, modular open-source components for hardware and software.  
 - Bridge embedded engineering with hobbyist and retro scenes.  
 - Enable community, collaboration and transparency in hardware + firmware projects.  
-- Blend retro aesthetics with modern tech — according to our motto: *“retrowave technology of the future.””* :contentReference[oaicite:3]{index=3}  
+- Blend retro aesthetics with modern tech — according to our motto: *“retrowave technology of the future.””*
 
 ---
 
@@ -31,7 +31,7 @@ Here are some of our standout work-streams:
 | **Digifiz Next** | [GitHub](https://github.com/Sgw32/DigifizReplica) | Advanced digital instrument cluster system for VAG Mk2 vehicles, combining modern electronics and gear/vehicle telemetry. |
 | **Digifiz Audi** | (in-house) | Custom version of Digifiz system tuned for Audi platforms — full hardware + firmware integration. |
 | **Kung Fu SID** | [GitHub](https://github.com/Sgw32/KungFuSID) | Plug-in cartridge for the Commodore 64/128 — USB-C powered, REU emulation, multi-format support for retro computing. |
-| **IV‑Indicator series** | (shop) | Series of gauge modules (IV-Zero, IV-Nano, upcoming IV-Evo/IV-Ray) for vehicle dashboards: electronics, firmware and CAD-housing all in one. :contentReference[oaicite:8]{index=8} |
+| **IV‑Indicator series** | (shop) | Series of gauge modules (IV-Zero, IV-Nano, upcoming IV-Evo/IV-Ray) for vehicle dashboards: electronics, firmware and CAD-housing all in one.
 
 Explore more repositories under our GitHub organisation.
 
@@ -46,7 +46,7 @@ See our [Contributing Guide](https://github.com/phol-labs/.github/blob/main/CONT
 
 ## 📫 Connect With Us  
 - 🌍 Website: [https://phol-labs.com](https://phol-labs.com)  
-- ✉️ Email: admin@phol-labs.com :contentReference[oaicite:9]{index=9}  
+- ✉️ Email: admin@phol-labs.com  
 - 💬 Community & forums: (link your Discord/Slack or forum if any)  
 - 📝 Documentation: (link to docs site or wiki if you maintain one)
 
