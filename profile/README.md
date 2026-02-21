@@ -48,8 +48,8 @@ See our [Contributing Guide](https://github.com/phol-labs/.github/blob/main/CONT
 - 🌍 Website: [https://phol-labs.com](https://phol-labs.com)
 - 💼 LinkedIn: [PHOL-LABS Kft on LinkedIn](https://www.linkedin.com/company/106877591)  
 - ✉️ Email: admin@phol-labs.com  
-- 💬 Community & forums: (link your Discord/Slack or forum if any)  
-- 📝 Documentation: (link to docs site or wiki if you maintain one)
+- 💬 Community & forums: use project Issues tab
+- 📝 Documentation: check our user manual repos
 
 ---
 
